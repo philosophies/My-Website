@@ -1,0 +1,23 @@
+body {
+	background: 999;
+	font-family: arial;
+}
+
+h1, h2 {
+	color: #444;
+}
+
+a {
+	color: purple;
+}
+
+p {
+	background: #666;
+	color: white;
+	padding: 10px 0px;
+}
+
+.secondary {
+	background: none;
+	color: #777;
+}
